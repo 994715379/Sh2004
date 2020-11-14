@@ -1,4 +1,4 @@
-package com.bjpowernode.github;
+package main.java.com.bjpowernode.github;
 
 /**
  * @ClassName
@@ -9,5 +9,6 @@ package com.bjpowernode.github;
  */
 public class test {
     private String id;
+
 
 }
