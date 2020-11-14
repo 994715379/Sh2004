@@ -10,4 +10,6 @@ package main.java.com.bjpowernode.github;
 public class Cat {
     private int age;
     private String name;
+    private String kk;
+
 }
